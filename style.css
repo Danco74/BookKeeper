@@ -1,1 +1,7 @@
-        1 file(s) copied.
+input{
+        max-width: 100%;
+}
+.stam {
+        font-size:80px;
+        background-color: red;
+}
